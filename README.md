@@ -1,7 +1,6 @@
 <!---->
 
 <h1 align="center">Hi 👋, I'm Muhammad Umair Moosani</h1>
-<h3 align="center">A passionate software engineer from Pakistan</h3>
 
 <h3 align="left">About me:</h3>
 <p>
@@ -63,15 +62,26 @@ I have a passion for crafting intuitive, user-centric interfaces, and enjoy solv
 <h3 align="left">Contact:</h3>
 
 <div align="left">
-<a href="mailto:muhammadumairmoosani@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+<div style="display: flex; align-items: center; justify-content: center;">
+  <a href="mailto:muhammadumairmoosani@gmail.com" target="_blank" style="display: flex; align-items: center; margin-right: 20px; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" />
+    <span style="margin-left: 10px; color: #000; display: inline-block; vertical-align: middle; line-height: 30px;">muhammadumairmoosani@gmail.com</span>
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-umair-moosani/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  <span style="border-left: 2px solid #ccc; height: 30px; margin-right: 20px;"></span>
+  <a href="https://www.linkedin.com/in/muhammad-umair-moosani/" target="_blank" style="display: flex; align-items: center; margin-right: 20px; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
+    <span style="margin-left: 10px; color: #000; display: inline-block; vertical-align: middle; line-height: 30px;">muhammad-umair-moosani</span>
   </a>
-  <a href="https://wa.me/923351379302" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
+  <span style="border-left: 2px solid #ccc; height: 30px; margin-right: 20px;"></span>
+  <a href="https://wa.me/923351379302" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo" />
+    <span style="margin-left: 10px; color: #000; display: inline-block; vertical-align: middle; line-height: 30px;">+923351379302</span>
   </a>
 </div>
+
+
+
+
+
 
 
