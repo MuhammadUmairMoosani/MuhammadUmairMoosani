@@ -3,6 +3,22 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair Moosani</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 
+<h3 align="left">About me:</h3>
+<p>
+  Hi, I’m Umair — a Senior Software Engineer with 7+ years of experience specializing in building scalable mobile and web applications. I have expertise in React Native, React.js, Next.js, TypeScript, and the MERN stack. Over the years, I’ve worked across multiple domains including healthcare, finance, transportation, and e-commerce, delivering high-performance solutions.
+
+Core Skills:
+
+Frontend: React Native, React.js, Next.js, Redux, Ant Design, Material UI
+
+Backend: Node.js, Express.js, MongoDB, GraphQL, Apollo
+
+Practices: Test-Driven Development (TDD), Agile methodologies, Clean Architecture
+
+Tools: GitHub, Jest, Cypress, REST APIs
+
+I have a passion for crafting intuitive, user-centric interfaces, and enjoy solving complex problems using modern technologies. I thrive in fast-paced, collaborative environments and am always open to learning new skills and exploring innovative solutions. Let's connect and collaborate!
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
