@@ -63,13 +63,13 @@ I have a passion for crafting intuitive, user-centric interfaces, and enjoy solv
 <h3 align="left">Contact:</h3>
 
 <div align="left">
-  <a href="muhammadumairmoosani@gmail.com" target="_blank">
+<a href="mailto:muhammadumairmoosani@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-umair-moosani/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="+923351379302" target="_blank">
+  <a href="https://wa.me/923351379302" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
   </a>
 </div>
